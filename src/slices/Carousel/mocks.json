@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Arrow"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Commodo ullamco aliqua velit pariatur in. Culpa labore velit est commodo proident nulla tempor sint nisi consequat commodo duis labore ex ut. Voluptate est anim exercitation commodo ex voluptate dolore exercitation irure veniam cupidatat."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
